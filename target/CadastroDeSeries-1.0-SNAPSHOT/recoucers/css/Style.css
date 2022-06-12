@@ -1,0 +1,13 @@
+body {
+    padding-top: 240px;
+    background-color: lightblue;
+}
+
+form {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 800px; 
+  height: 200px;
+  width: 17%;
+}
