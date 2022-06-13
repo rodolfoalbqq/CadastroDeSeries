@@ -1,4 +1,4 @@
-<h1>Cadastro de Series</h1>
+<h1>DogFlix</h1>
 
 DogFlix é uma aplicação web para realizar cadastros de séries.
 
