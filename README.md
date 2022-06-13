@@ -1,4 +1,5 @@
-<h1>DogFlix</h1>
+![logo](https://user-images.githubusercontent.com/62101040/173322542-9598a854-acc1-47b9-bc2f-439581192abf.png)
+
 
 DogFlix é uma aplicação web para realizar cadastros de séries.
 
