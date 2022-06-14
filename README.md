@@ -5,7 +5,7 @@ DogFlix é uma aplicação web para realizar cadastros de séries.
 
 <h2>Aplicação</h2>
  <br>
--Comtem uma tela de login <br>
+-Contem uma tela de login <br>
 -CRUD das Séries <br>
 -Tela para exibir todas as séries cadastradas no sistema
 
